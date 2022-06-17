@@ -1,5 +1,5 @@
 # Personal expenses app
-The attached files **DO NOT** work as a standalone project, they are just the code I wrote (lib folder), pubspecs (packages used) and the assets (fonts to add style to the app).  
+The attached files **DO NOT** work as a standalone project, they are just the code I wrote (lib folder), pubspecs (dependencies) and the assets (fonts to add style to the app).  
 
 To give the app a try:
 -  [Download the Flutter SDK and Android Studio](https://docs.flutter.dev/get-started/install).
